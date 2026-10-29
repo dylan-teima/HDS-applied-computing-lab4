@@ -1,0 +1,9 @@
+step	rows_before	expected_rows_after	actual_rows_after	grain_after
+patients LEFT JOIN samples	566	566	566	patient (at most one sample verified)
+patients CROSS JOIN five target genes	566	2830	2830	patient x gene
+patient-gene grid LEFT JOIN samples	2830	2830	2830	patient x gene x sample
+LEFT JOIN sample-gene aggregate (before final GROUP BY)	2830	2830	2830	patient x gene x sample
+Raw-record patient check JOIN	4	5	5	selected mutation record
+Task 2 patient-gene result	2830	2830	2830	patient x gene
+Task 2 site-stage result	566	142	142	observed site x stage
+Python wide reshape and combine	566	566	566	patient

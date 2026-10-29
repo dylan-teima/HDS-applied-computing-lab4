@@ -1,0 +1,2 @@
+# Only Python standard-library modules are used.
+# No pip packages required. Tested with Python 3.14.7 / SQLite 3.53.4

@@ -1,0 +1,12 @@
+column_name	meaning	units	source_table	missing_value_policy
+patient_id	De-identified TCGA patient barcode; unique feature-table key	identifier	patients.patient_id	No missing values allowed
+sex	Recorded sex; female or male	category	patients.sex	SQL NULL exported as NA; not imputed
+age_at_diagnosis	Age at diagnosis copied without rounding	years	patients.age_at_diagnosis	SQL NULL exported as NA; not imputed
+stage	Recorded AJCC pathologic tumor stage; original substages retained	category	patients.stage	SQL NULL exported as NA; not imputed
+tissue_source_site	Institution/source site collecting tissue and clinical metadata; not anatomic tumor location	category	samples.tissue_source_site	SQL NULL exported as NA; no missing values observed
+tmb_nonsynonymous	Source-reported nonsynonymous tumor mutation burden; not recalculated from five genes	mutations per megabase (mut/Mb); conventional TMB interpretation, not encoded in SQLite schema	samples.tmb_nonsynonymous	SQL NULL exported as NA; recorded zero retained
+TP53	Recorded non-Silent TP53 mutation rows across the patient's samples	mutation records per patient	mutations via samples.patient_id	0 when no qualifying row recorded; no NA
+KRAS	Recorded non-Silent KRAS mutation rows across the patient's samples	mutation records per patient	mutations via samples.patient_id	0 when no qualifying row recorded; no NA
+EGFR	Recorded non-Silent EGFR mutation rows across the patient's samples	mutation records per patient	mutations via samples.patient_id	0 when no qualifying row recorded; no NA
+STK11	Recorded non-Silent STK11 mutation rows across the patient's samples	mutation records per patient	mutations via samples.patient_id	0 when no qualifying row recorded; no NA
+KEAP1	Recorded non-Silent KEAP1 mutation rows across the patient's samples	mutation records per patient	mutations via samples.patient_id	0 when no qualifying row recorded; no NA

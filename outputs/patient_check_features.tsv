@@ -1,0 +1,5 @@
+patient_id	sex	age_at_diagnosis	stage	tissue_source_site	tmb_nonsynonymous	TP53	KRAS	EGFR	STK11	KEAP1
+TCGA-05-4382	male	68.0	IB	Indivumed	51.73333333	1	0	2	0	0
+TCGA-17-Z000	NA	NA	NA	Washington University	3.866666667	0	0	0	0	0
+TCGA-17-Z023	NA	NA	NA	Washington University	12.06666667	1	0	0	0	0
+TCGA-64-1678	female	70.0	IIA	Fox Chase	0.0	0	0	0	0	0

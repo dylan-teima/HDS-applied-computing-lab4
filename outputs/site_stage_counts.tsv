@@ -1,0 +1,143 @@
+tissue_source_site	stage	patient_count
+ABS - IUPUI	IA	5
+ABS - IUPUI	IB	5
+ABS - IUPUI	IIA	3
+ABS - IUPUI	IIB	1
+ABS - IUPUI	IIIA	2
+ABS - Lahey Clinic	IA	3
+ABS - Lahey Clinic	IIA	1
+ABS - Lahey Clinic	IIB	1
+Albert Einstein Medical Center	IA	1
+Asterand	IA	6
+Asterand	IB	8
+Asterand	IIA	10
+Asterand	IIB	5
+Asterand	IIIA	4
+Asterand	IV	1
+BLN - Baylor	IA	2
+BLN - Baylor	IIA	1
+CHI-Penrose Colorado	IA	1
+Candler	IA	2
+Candler	IB	1
+Candler	IIA	3
+Candler	IV	1
+Christiana Healthcare	IA	15
+Christiana Healthcare	IB	19
+Christiana Healthcare	IIA	2
+Christiana Healthcare	IIB	7
+Christiana Healthcare	IIIA	3
+Cureline	IA	2
+Cureline	IB	1
+Cureline	IIIA	1
+Fox Chase	IA	2
+Fox Chase	IB	3
+Fox Chase	IIA	1
+Fox Chase	IIB	1
+Fox Chase	IIIA	4
+Fox Chase	IV	1
+Gundersen Lutheran Health System	I	1
+Gundersen Lutheran Health System	IA	1
+ILSBio	IB	2
+Indivumed	IA	1
+Indivumed	IB	13
+Indivumed	IIA	1
+Indivumed	IIB	6
+Indivumed	IIIA	4
+Indivumed	IIIB	4
+Indivumed	IV	4
+International Genomics Consortium	IA	30
+International Genomics Consortium	IB	25
+International Genomics Consortium	IIA	10
+International Genomics Consortium	IIB	12
+International Genomics Consortium	IIIA	8
+International Genomics Consortium	IIIB	1
+International Genomics Consortium	IV	5
+Johns Hopkins	I	1
+Johns Hopkins	IA	9
+Johns Hopkins	IB	2
+Johns Hopkins	II	1
+Johns Hopkins	IIA	2
+Johns Hopkins	IIB	6
+Johns Hopkins	IIIA	8
+Mary Bird Perkins Cancer Center - Our Lady of the Lake	IA	1
+Ontario Institute for Cancer Research (OICR)	IB	9
+Ontario Institute for Cancer Research (OICR)	IIB	3
+Ontario Institute for Cancer Research (OICR)	IIIA	4
+Ontario Institute for Cancer Research (OICR)/Ottawa	IA	1
+Ontario Institute for Cancer Research (OICR)/Ottawa	IB	1
+Ontario Institute for Cancer Research (OICR)/Ottawa	IIB	1
+Prince Charles Hospital	IA	3
+Prince Charles Hospital	IB	11
+Prince Charles Hospital	IIA	2
+Prince Charles Hospital	IIB	7
+Prince Charles Hospital	IIIA	4
+Prince Charles Hospital	IIIB	2
+Prince Charles Hospital	IV	4
+Roswell Park	IA	3
+Roswell Park	IB	2
+Roswell Park	IIA	1
+Roswell Park	IIB	2
+Roswell Park	IIIA	2
+Roswell Park	IV	2
+St Joseph's Medical Center (MD)	NA	1
+St Joseph's Medical Center (MD)	IA	3
+St Joseph's Medical Center (MD)	IB	4
+St Joseph's Medical Center (MD)	IIA	1
+Thoraxklinik at University Hospital Heidelberg	IB	6
+Thoraxklinik at University Hospital Heidelberg	IIB	5
+Thoraxklinik at University Hospital Heidelberg	IIIA	4
+Thoraxklinik at University Hospital Heidelberg	IIIB	1
+UNC	IA	1
+UNC	IB	3
+UNC	IIA	2
+UNC	IIB	1
+UNC	IIIA	1
+UNC	IV	1
+University of Miami	IIA	2
+University of Miami	IIIB	1
+University of Miami	IV	1
+University of Pittsburgh	I	1
+University of Pittsburgh	IA	9
+University of Pittsburgh	IB	6
+University of Pittsburgh	IIA	1
+University of Pittsburgh	IIB	3
+University of Pittsburgh	IIIA	8
+University of Pittsburgh	IIIB	2
+University of Pittsburgh	IV	1
+Washington University	NA	52
+Washington University - Alabama	IA	3
+Washington University - Alabama	IIIA	2
+Washington University - Alabama	IV	1
+Washington University - CALGB	IA	1
+Washington University - Cleveland Clinic	NA	1
+Washington University - Cleveland Clinic	I	1
+Washington University - Cleveland Clinic	IA	3
+Washington University - Cleveland Clinic	IB	3
+Washington University - Cleveland Clinic	IIA	1
+Washington University - Cleveland Clinic	IIB	4
+Washington University - Cleveland Clinic	IIIA	1
+Washington University - Cleveland Clinic	IV	1
+Washington University - Emory	IA	4
+Washington University - Emory	IB	1
+Washington University - Emory	IIA	3
+Washington University - Emory	IIB	2
+Washington University - Emory	IIIA	2
+Washington University - Mayo Clinic	IA	4
+Washington University - Mayo Clinic	IB	2
+Washington University - Mayo Clinic	IIA	3
+Washington University - Mayo Clinic	IIB	4
+Washington University - Mayo Clinic	IIIA	5
+Washington University - Mayo Clinic	IV	1
+Washington University - NYU	I	1
+Washington University - NYU	IA	11
+Washington University - NYU	IB	8
+Washington University - NYU	IIA	1
+Washington University - NYU	IIIA	3
+Washington University - NYU	IV	1
+Washington University - Rush University	IA	3
+Washington University - Rush University	IB	3
+Washington University - Rush University	IIA	1
+Washington University - Rush University	IIIA	2
+Washington University - St. Louis	IA	4
+Washington University - St. Louis	IB	1
+Washington University - St. Louis	IV	2

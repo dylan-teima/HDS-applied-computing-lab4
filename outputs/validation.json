@@ -1,0 +1,113 @@
+{
+  "table_counts": {
+    "patients": 566,
+    "samples": 566,
+    "mutations": 200789,
+    "genes": 17756
+  },
+  "db_sha256": "6da3f91401918dda543aced9fa6f411dcecf204552cebfc6e54ab7d8f387e8e7",
+  "missing_features": {
+    "patient_id": 0,
+    "sex": 52,
+    "age_at_diagnosis": 71,
+    "stage": 54,
+    "tissue_source_site": 0,
+    "tmb_nonsynonymous": 0,
+    "TP53": 0,
+    "KRAS": 0,
+    "EGFR": 0,
+    "STK11": 0,
+    "KEAP1": 0
+  },
+  "genes": {
+    "TP53": {
+      "mutation_count": 305,
+      "patients_with_recorded_mutation": 287
+    },
+    "KRAS": {
+      "mutation_count": 172,
+      "patients_with_recorded_mutation": 168
+    },
+    "EGFR": {
+      "mutation_count": 85,
+      "patients_with_recorded_mutation": 69
+    },
+    "STK11": {
+      "mutation_count": 81,
+      "patients_with_recorded_mutation": 74
+    },
+    "KEAP1": {
+      "mutation_count": 103,
+      "patients_with_recorded_mutation": 102
+    }
+  },
+  "mutation_classes": [
+    {
+      "variant_classification": "Frame_Shift_Del",
+      "n": 3936
+    },
+    {
+      "variant_classification": "Frame_Shift_Ins",
+      "n": 1172
+    },
+    {
+      "variant_classification": "In_Frame_Del",
+      "n": 378
+    },
+    {
+      "variant_classification": "In_Frame_Ins",
+      "n": 37
+    },
+    {
+      "variant_classification": "Missense_Mutation",
+      "n": 133460
+    },
+    {
+      "variant_classification": "Nonsense_Mutation",
+      "n": 11075
+    },
+    {
+      "variant_classification": "Nonstop_Mutation",
+      "n": 178
+    },
+    {
+      "variant_classification": "Silent",
+      "n": 45833
+    },
+    {
+      "variant_classification": "Splice_Site",
+      "n": 4497
+    },
+    {
+      "variant_classification": "Translation_Start_Site",
+      "n": 223
+    }
+  ],
+  "noncanonical_gene_symbol_rows": 2431,
+  "eligible_mutation_rows": 746,
+  "observed_sample_gene_groups": 700,
+  "samples_with_no_mutations": [
+    "TCGA-64-1678-01",
+    "TCGA-69-8453-01",
+    "TCGA-78-7143-01",
+    "TCGA-86-A4D0-01"
+  ],
+  "patient_checks": [
+    "TCGA-05-4382",
+    "TCGA-64-1678",
+    "TCGA-17-Z000",
+    "TCGA-17-Z023"
+  ],
+  "site_stage_groups": 142,
+  "checks": {
+    "integrity": "ok",
+    "foreign_key_violations": 0,
+    "independent_patient_gene_comparisons": 2830,
+    "independent_site_stage_comparisons": 142,
+    "patient_ids_preserved": true
+  },
+  "runtime": {
+    "python": "3.14.7",
+    "sqlite": "3.53.4"
+  }
+}

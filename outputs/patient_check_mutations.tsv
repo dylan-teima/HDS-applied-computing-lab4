@@ -1,0 +1,6 @@
+patient_id	mutation_id	sample_id	gene_symbol	variant_classification	variant_type	protein_change	chromosome	start_pos	end_pos	t_ref_count	t_alt_count
+TCGA-05-4382	2635	TCGA-05-4382-01	EGFR	Missense_Mutation	SNP	p.R222L	7	55220275	55220275	418	86
+TCGA-05-4382	2636	TCGA-05-4382-01	EGFR	Missense_Mutation	SNP	p.E545Q	7	55231427	55231427	196	17
+TCGA-05-4382	1770	TCGA-05-4382-01	TP53	Missense_Mutation	SNP	p.V272G	17	7577123	7577123	33	9
+TCGA-17-Z023	21335	TCGA-17-Z023-01	TP53	Nonsense_Mutation	SNP	p.E198*	17	7578257	7578257	58	28
+TCGA-17-Z023	21336	TCGA-17-Z023-01	TP53	Silent	SNP	p.V197=	17	7578258	7578258	60	27
